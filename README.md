@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Thesis-----------------------------------------------
+기침 파형 패턴을 활용한 COVID-19 확진자 식별 딥러닝 모델 <유성주, 김재윤> [link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11047994)
+
+Achievement -----------------------------------------------
+순천향대학교 4회 데이터 분석 및 개발 대회 <대상>
+순천향대학교 5회 데이터 분석 및 개발 대회 <대상>
+2022 GDSC(Google Developer Student Clubs) KR Winter Hack <대상>
+AI 학습용 특허 데이터를 활용한 아이디어 공모전 <최우수상>
+
 
 <!--
 **sungju1572/sungju1572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
