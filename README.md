@@ -5,6 +5,7 @@
 - - -
 
 기침 파형 패턴을 활용한 COVID-19 확진자 식별 딥러닝 모델 <유성주, 김재윤> [link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11047994)
+
 주가 데이터 생성 모델을 활용한 머신러닝 기반 한국 주가지수 등락 예측 <유성주, 김재윤> [link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11108423)
 
 ## Achievement
