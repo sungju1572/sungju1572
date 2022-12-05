@@ -20,6 +20,7 @@
 
 AI 학습용 특허 데이터를 활용한 아이디어 공모전 <최우수상>
 
+K-ICT 빅데이터센터 2022년 데이터 크리에이터 캠프 대학부 <우수상>
 
 <!--
 **sungju1572/sungju1572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
